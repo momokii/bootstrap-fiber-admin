@@ -1,4 +1,4 @@
-# Bootsrap Admin Template with Golang Fiber
+# Bootstrap Admin Template with Golang Fiber
 
 In this project, we explore the relatively uncommon integration of Golang Fiber with a Bootstrap-based admin template. By utilizing the free Bootstrap template from [Star Admin Free](https://www.bootstrapdash.com/product/star-admin-free), we aim to implement and seamlessly integrate its front-end design with Golang Fiber for a streamlined and modern web development experience.
 
