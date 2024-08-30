@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+
+{{ template "components/partials/_main-header" . }}
+
+<body class="with-welcome-text">
+    <div class="container-scroller">
+        <!-- partial:partials/_navbar.html -->
+        {{ template "components/partials/_navbar" . }}
+
+        <!-- partial -->
+        <div class="container-fluid page-body-wrapper">
+            <!-- partial:partials/_sidebar.html -->
+            {{ template "components/partials/_sidebar" . }}
+
+
+            <!-- partial -->
+            <div class="main-panel">
